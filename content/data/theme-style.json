@@ -2,7 +2,7 @@
     "type": "ThemeStyle",
     "h1": {
         "style": "bold",
-        "size": 120,
+        "size": 400,
         "lineHeight": 40,
         "decoration": "none"
     },
