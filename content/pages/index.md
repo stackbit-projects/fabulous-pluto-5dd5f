@@ -37,7 +37,7 @@ sections:
       url: /images/hugh-saturation.jpg
       altText: Image alt text
       caption: Image caption
-      opacity: 75
+      opacity: 14
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
