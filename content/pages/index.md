@@ -44,6 +44,7 @@ sections:
       caption: lorem-ipsum
       opacity: 100
       type: ImageBlock
+      url: /images/Background.png
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
