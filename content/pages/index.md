@@ -41,7 +41,7 @@ sections:
       elementId: ''
       altText: lorem-ipsum
       caption: lorem-ipsum
-      opacity: 100
+      opacity: 75
       type: ImageBlock
       url: /images/Background.png
   - type: FeaturedPostsSection
