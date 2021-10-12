@@ -4,7 +4,7 @@
         "style": "normal",
         "size": 400,
         "lineHeight": 40,
-        "decoration": "none"
+        "decoration": "underline"
     },
     "h2": {
         "style": "bold",
