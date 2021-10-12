@@ -38,6 +38,12 @@ sections:
       altText: Image alt text
       caption: Image caption
       opacity: 14
+    backgroundImage:
+      elementId: ''
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      opacity: 100
+      type: ImageBlock
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
