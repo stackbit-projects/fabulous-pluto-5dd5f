@@ -9,7 +9,7 @@
     "h2": {
         "style": "normal",
         "size": 400,
-        "lineHeight": 28,
+        "lineHeight": 22,
         "decoration": "underline"
     },
     "primary": "#28aaff",
