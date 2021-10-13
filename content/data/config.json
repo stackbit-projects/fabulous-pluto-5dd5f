@@ -6,7 +6,7 @@
         "mobileNavVariant": "variant-b",
         "primaryColors": "colors-a",
         "secondaryColors": "colors-a",
-        "width": "wide",
+        "width": "full",
         "title": "Starter",
         "isTitleVisible": true,
         "logo": {
