@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 @import '@stackbit/components/styles/default/style.css';
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+</style>
 
 @layer base {
   h1,
