@@ -2,7 +2,7 @@
     "type": "ThemeStyle",
     "h1": {
         "style": "normal",
-        "size": 400,
+        "size": 700,
         "lineHeight": 26,
         "decoration": "underline"
     },
