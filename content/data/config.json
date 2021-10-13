@@ -5,7 +5,7 @@
         "desktopNavVariant": "variant-a",
         "mobileNavVariant": "variant-b",
         "primaryColors": "colors-a",
-        "secondaryColors": "colors-b",
+        "secondaryColors": "colors-d",
         "width": "full",
         "title": "Starter",
         "isTitleVisible": true,
