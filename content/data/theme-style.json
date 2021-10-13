@@ -8,7 +8,7 @@
     },
     "h2": {
         "style": "normal",
-        "size": 400,
+        "size": 64,
         "lineHeight": 22,
         "decoration": "underline"
     },
