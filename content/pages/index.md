@@ -49,7 +49,7 @@ sections:
     colors: colors-c
     width: wide
     height: short
-    contentWidth: medium
+    contentWidth: small
     contentAlignHoriz: center
     contentAlignVert: middle
     bottomGap: none
