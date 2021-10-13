@@ -9,8 +9,8 @@
     "h2": {
         "style": "normal",
         "size": 64,
-        "lineHeight": 44,
-        "decoration": "underline"
+        "lineHeight": 28,
+        "decoration": "none"
     },
     "primary": "#ebfffc",
     "secondary": "#ffecfd",
