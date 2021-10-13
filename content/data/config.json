@@ -4,7 +4,7 @@
     "navBar": {
         "desktopNavVariant": "variant-a",
         "mobileNavVariant": "variant-b",
-        "primaryColors": "colors-a",
+        "primaryColors": "colors-d",
         "secondaryColors": "colors-d",
         "width": "full",
         "title": "Starter",
