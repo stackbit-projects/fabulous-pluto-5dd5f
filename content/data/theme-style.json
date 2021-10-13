@@ -3,7 +3,7 @@
     "h1": {
         "style": "normal",
         "size": 400,
-        "lineHeight": 40,
+        "lineHeight": 92,
         "decoration": "underline"
     },
     "h2": {
